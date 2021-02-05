@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "415509706562",
+    "project_id": "multiviewrecycler",
+    "storage_bucket": "multiviewrecycler.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415509706562:android:cec883d0c843efcafb7adb",
+        "android_client_info": {
+          "package_name": "com.codingwithme.multiviewrecyclerview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415509706562-rre03v0ug1837jc613c6gioqar01ju7v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8nR9YOTyvm7K1SiXuOalKFX8uzH9U5rQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415509706562-rre03v0ug1837jc613c6gioqar01ju7v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
